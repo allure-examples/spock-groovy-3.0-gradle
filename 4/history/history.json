@@ -1,0 +1,1 @@
+{"228d2b128251cc2afe75968feabef23b":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"c5968ebc3b05c66e","reportUrl":"https://allure-examples.github.io/spock-groovy-3.0-gradle/4//#testresult/c5968ebc3b05c66e","status":"passed","time":{"start":1711436943532,"stop":1711436943887,"duration":355}}]}}
