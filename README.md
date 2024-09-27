@@ -1,6 +1,6 @@
 # Allure Example
 
-> Example of Allure Report usage with spock, groovy 3.0 and Gradle
+> Example of Allure Report usage with Spock, Groovy 3.0 and Gradle
 
 <!--<img src="https://allurereport.org/public/img/allure-report.svg" alt="Allure Report logo" style="float: right" />-->
 
